@@ -1,4 +1,4 @@
-# 📊 Análise de Internações por AVC (2018–2019)
+<img width="1080" height="600" alt="boxplot_nihss_sexo" src="https://github.com/user-attachments/assets/5b3984ac-add6-45da-ab61-1c109e8eec79" /># 📊 Análise de Internações por AVC (2018–2019)
 
 Este repositório contém a análise de internações por Acidente Vascular Cerebral (AVC) a partir do banco **Analítico AVC (Excel local, 2018–2019)**.  
 O pipeline executa limpeza, anonimização mínima (remoção de PII), padronização de variáveis, extração de comorbidades e geração de estatísticas, gráficos e relatórios automáticos.
@@ -37,13 +37,21 @@ O pipeline executa limpeza, anonimização mínima (remoção de PII), padroniza
 - `figs/*.png` → figuras exportadas automaticamente
 
 ### 🔎 Figuras principais
-- **Idade por sexo:** `boxplot_idade_sexo.png`  
-- **NIHSS por sexo:** `boxplot_nihss_sexo.png`  
-- **Porta-agulha × comorbidade prevalente:** `boxplot_porta_agulha_comorb.png`  
-- **Correlação entre comorbidades:** `correlacao_comorbidades.png`  
-- **Spearman (contínuas vs comorbidades):** `correlacao_spearman_cont.png`  
-- **Série temporal mensal:** `serie_mensal_2018_2019.png`  
-- **Histogramas operacionais:** `metricas_operacionais_*.png`  
+- **Idade por sexo:**
+<img width="1080" height="600" alt="boxplot_idade_sexo" src="https://github.com/user-attachments/assets/50b2e1e5-e7c2-45f8-89f7-6830f8b1eac7" />
+- **NIHSS por sexo:**
+<img width="1080" height="600" alt="boxplot_nihss_sexo" src="https://github.com/user-attachments/assets/55386033-b357-4afb-a928-1436b3d1bdb6" />
+- **Porta-agulha × comorbidade prevalente:**
+<img width="1080" height="600" alt="boxplot_porta_agulha_comorb" src="https://github.com/user-attachments/assets/fa8ad617-4747-4484-96d5-fcc57ca87db0" />
+- **Correlação entre comorbidades:**
+ <img width="1080" height="600" alt="correlacao_comorbidades" src="https://github.com/user-attachments/assets/d6d66998-b1d2-4b8f-8e8b-80a2f681238a" />
+- **Spearman (contínuas vs comorbidades):**
+<img width="1080" height="600" alt="correlacao_spearman_cont" src="https://github.com/user-attachments/assets/2a9b7d74-8bf4-4580-86e0-c99bc9c72dcc" />
+- **Série temporal mensal:**
+ <img width="1080" height="600" alt="serie_mensal_2018_2019" src="https://github.com/user-attachments/assets/f3d9b596-dc68-4e21-804b-3ce4dbe590af" />
+- **Histogramas operacionais:**
+ <img width="1080" height="600" alt="metricas_operacionais" src="https://github.com/user-attachments/assets/20f00a40-2195-464e-ad00-2fbec458c1c0" />
+
 
 ---
 
@@ -56,3 +64,4 @@ O pipeline executa limpeza, anonimização mínima (remoção de PII), padroniza
 ---
 
 ✍️ *Autor: Gregório Platero Canton*  
+
