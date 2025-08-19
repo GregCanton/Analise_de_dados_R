@@ -1,4 +1,4 @@
-<img width="1080" height="600" alt="boxplot_nihss_sexo" src="https://github.com/user-attachments/assets/5b3984ac-add6-45da-ab61-1c109e8eec79" /># 📊 Análise de Internações por AVC (2018–2019)
+📊 Análise de Internações por AVC (2018–2019)
 
 Este repositório contém a análise de internações por Acidente Vascular Cerebral (AVC) a partir do banco **Analítico AVC (Excel local, 2018–2019)**.  
 O pipeline executa limpeza, anonimização mínima (remoção de PII), padronização de variáveis, extração de comorbidades e geração de estatísticas, gráficos e relatórios automáticos.
@@ -64,4 +64,5 @@ O pipeline executa limpeza, anonimização mínima (remoção de PII), padroniza
 ---
 
 ✍️ *Autor: Gregório Platero Canton*  
+
 
